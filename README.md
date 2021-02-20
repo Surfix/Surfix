@@ -1,3 +1,8 @@
+## Naheem Adebisi
+
+I am an experienced and solution-oriented GIS Analyst who is passionate about providing simple digital solutions to complex environmental and spatial problems
+
+I am currently doing my MSc program at [Universiti Teknologi Petronas](https://www.utp.edu.my/Pages/Home.aspx). 
 ### Hi there 👋
 
 - 🔭 I’m currently working on ...
