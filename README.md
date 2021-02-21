@@ -1,5 +1,6 @@
-## Naheem Adebisi
-### Environmental Scientist and GIS Analyst
+## Naheem Adebisi - Environmental Scientist and GIS Analyst
+
+<a href = "https://twitter.com/survix"> <img src = 'https://img.shields.io/badge/Follow%20me-Twitter-blue.svg'/> </a>
 ### About Me
 I am an experienced and solution-oriented GIS Analyst who is passionate about providing simple digital solutions to complex environmental and spatial problems
 
