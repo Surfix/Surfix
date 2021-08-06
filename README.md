@@ -19,7 +19,7 @@ One of the greatest uncertainties in modelling sea level rise is the limited und
 ### Publication
 - Abdul-Lateef Balogun & **Naheem Adebisi** (2021). Sea level prediction using ARIMA, SVR and LSTM neural network: assessing the impact of ensemble Ocean-Atmospheric processes on models’ accuracy, Geomatics, Natural Hazards and Risk, 12:1, 653-674, [DOI: 10.1080/19475705.2021.1887372](https://www.tandfonline.com/doi/full/10.1080/19475705.2021.1887372)
 - **Adebisi, N.**, Balogun, A.-L., Min, T.H., Tella, A., 2021. Advances in estimating Sea Level Rise: A review of tide gauge, satellite altimetry and spatial data science approaches. Ocean & Coastal Management 208, 105632. [DOI: https://doi.org/10.1016/j.ocecoaman.2021.105632](https://doi.org/10.1016/j.ocecoaman.2021.105632)
-
+- **Adebisi, N.**, & Balogun, A. L. (2021). A deep-learning model for national scale modelling and mapping of Sea level rise in Malaysia: The past, present, and future. Geocarto International, 1-23.
 
 ### Portfolio
 
