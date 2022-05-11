@@ -4,7 +4,7 @@
 ### About Me
 I am an experienced and solution-oriented GIS Analyst who is passionate about providing simple digital solutions to complex environmental and spatial problems
 
-I am a PhD student at [Boise State Unuiversity] (https://www.boisestate.edu/earth/staff-members/graduate-students/). 
+I am a PhD student at [Boise State Unuiversity](https://www.boisestate.edu/earth/staff-members/graduate-students/). 
 
 ### Skills
 - 🌱 Remote Sensing and GIS Analysis
